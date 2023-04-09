@@ -5,7 +5,7 @@ share: true
 This is my Landung page. Hello Pferd!
 > [!AI]+ Artificial Homepage
 > Hello Pferd!!!
-> hi 
+> hi !
 
 
 > [!FAQ]- Is this a Callout?
