@@ -1,5 +1,6 @@
 ---
 share: true
+banner: "![[Blueme.jpg]]"
 ---
 
 This is my Landung page. Hello Pferd!
